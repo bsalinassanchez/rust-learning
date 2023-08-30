@@ -1,4 +1,4 @@
-# Rust Learning Repository - Brandon Salinas Sanchez
+# Rust Learning Repository - Brandon Salinas Sanchez 2023
 
 
 ## This repository will contain materials for learning and working with Rust programming language! 
